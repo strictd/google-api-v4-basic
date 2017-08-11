@@ -1,0 +1,17 @@
+{
+  "name": "@strictd/google-api-v4-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github,com/strictd/google-api-v4-basic.git"
+  },
+  "author": "Gary Taylor <gary@strictdevelopment.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.20",
+    "jsonwebtoken": "^7.4.2",
+    "minimist": "^1.2.0"
+  }
+}
